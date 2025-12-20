@@ -1,6 +1,6 @@
 # Arduino Toys
 
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/megatops/arduino_toys)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/megatops/arduino_toys) ![GitHub License](https://img.shields.io/github/license/megatops/arduino_toys?logo=license) ![GitHub top language](https://img.shields.io/github/languages/top/megatops/arduino_toys) ![GitHub contributors](https://img.shields.io/github/contributors-anon/megatops/arduino_toys) ![GitHub forks](https://img.shields.io/github/forks/megatops/arduino_toys) ![GitHub Repo stars](https://img.shields.io/github/stars/megatops/arduino_toys)
 
 Some toys made with Arduino IDE.
 
