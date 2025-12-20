@@ -1,4 +1,7 @@
 # Arduino Toys
+
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/megatops/arduino_toys)
+
 Some toys made with Arduino IDE.
 
 ## 32-Band Audio Spectrum Visualizer
